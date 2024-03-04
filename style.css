@@ -1,0 +1,17 @@
+body{font-family: "Lucida Console", Helvetica, sans-serif; 
+padding-left: 10px ;
+ padding-right:10px; 
+background-color:rgb(174, 191, 234);
+ word-spacing:-0.3em; }
+.Encabezado{
+background-color: rgb(174, 182, 220);}
+font-family: georgian;
+font-size: 15px;
+font-weight: 3;
+color: rgb( 250, 250, 250 );
+}
+h1 {fore-color: rgb ( 250, 250, 250); 
+font-weight: bold;} 
+.pq {background-color:rgb(186, 174, 234 ); } 
+.biblios{background:rgb(230, 243, 236 );}}
+table {background: rgb (230, 243, 236 );}
